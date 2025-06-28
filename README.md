@@ -14,7 +14,7 @@ The project uses Unity with Csharp scripts attached to game objects and the keyb
 
 Various tutorials for Julia were helpful, but I focused on:
 
-[TurboSquid.com](hhttps://www.turbosquid.com/3d-models/low-poly-male-1824558)
+[TurboSquid.com](https://www.turbosquid.com/3d-models/low-poly-male-1824558)
 
 [Blender](https://www.blender.org/)
 
