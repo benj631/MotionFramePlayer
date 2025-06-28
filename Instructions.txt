@@ -1,0 +1,17 @@
+1. Install Unity
+2. Create an empty 3D Project
+3. Add scripts to Assets/Scripts
+4. Add meshes to Assets/Meshes
+5. Create an object: ObjectManager
+6. Attach main.cs to ObjectManager
+7. Add bodypart meshes to the scene
+8. Drag bodypart meshes to corresponding prefab fields in the inspector tab for ObjectManager
+9. Adjust the bodyparts to be connected as desired.
+10. Set the camera to face the center of the scene
+11. Create a canvas element
+12. Create two UI - Text Pro elements, DebugText and StatsText
+13. Drag them to the corresponding text fields in ObjectManager
+14. You will need to adjust the positions for the text ui elements- Press play to play the project
+15. Adjust y values of the text to be placed as desired. Copy those y values
+16. Stop the project, adjust text y values.
+17. All set :D
